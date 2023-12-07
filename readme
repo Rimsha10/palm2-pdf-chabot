@@ -1,0 +1,4 @@
+run app by:
+streamlit run palm2-pdf-chabot-POC 
+
+This uses different Python libraries, langchain and palm2 api
